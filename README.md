@@ -184,3 +184,5 @@ gradle :app:testDebugUnitTest
 The standard Gradle outputs are written to:
 - **APK**: `app/build/outputs/apk/debug/app-debug.apk`
 - **AAB**: `app/build/outputs/bundle/debug/app-debug.aab`
+
+- DEMO VIDEO LINK --> https://youtu.be/l3_W9Xai580?si=dvmYJ1Cq4IGysOfx
