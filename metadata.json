@@ -1,0 +1,6 @@
+{
+  "name": "KavachPay",
+  "description": "UPI & SMS Fraud Shield with real-time scam detection, bilingual English and Hindi voice advisories, and golden-hour cybercrime reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

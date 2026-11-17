@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield Silhouette centered in 66dp safe zone -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24 L30,34.5 L30,51 C30,66.8 40.2,81.4 54,85.5 C67.8,81.4 78,66.8 78,51 L78,34.5 L54,24 Z" />
+    <!-- Inner Checkmark Cutout / Accent in Emerald-Teal -->
+    <path
+        android:fillColor="#0D9488"
+        android:pathData="M48.5,63.5 L39.5,54.5 L43.8,50.2 L48.5,54.9 L64.2,39.2 L68.5,43.5 L48.5,63.5 Z" />
+</vector>
